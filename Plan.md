@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/fa479014-7085-4ea8-810a-b4022530aa48)## Описание приложения
+## Описание приложения
 
 #### Приложение «[Мобильный хоспис](https://drive.google.com/drive/u/0/folders/14Sl8CAiIzFqtyXx6BAmWVlbu3_cXXzH1/)» даёт функционал по работе с новостями хосписа и включает в себя:
 
